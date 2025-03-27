@@ -9,7 +9,7 @@
 |<img src="https://avatars.githubusercontent.com/u/75584814?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/137462767?v=4" width="150" height="150"/>|
 |:-:|:-:|
 |Jinsoo Park<br/>[@jinny908](https://github.com/jinny908)|Jayoung Kim<br/>[@jaeyo03](https://github.com/jaeyo03)|
-| 백엔드 + 인프라 구성 | 프론트엔드 + 포즈 유사도 |
+| 백엔드 + 인프라 구성 + 아키텍처 설계 | 프론트엔드 + 포즈 유사도 + 아키텍처 설계 |
 
 ---
 
