@@ -1,7 +1,7 @@
 # 캡스톤 디자인 프로젝트
 
 ## 프로젝트 제목
-**가상 피팅 최적화 서비스: 자세 유사도 분석 및 신체 트래킹 기반**  
+**가상 피팅 최적화 서비스: 관절 추적 및 동작 유사도 기반**  
 *Virtual Try on Optimization Service through Pose Similarity Analysis and Body Tracking*
 
 ## 팀원 소개
